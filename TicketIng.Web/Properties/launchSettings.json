@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TicketIng.Web": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:54552;http://localhost:54553"
+    }
+  }
+}

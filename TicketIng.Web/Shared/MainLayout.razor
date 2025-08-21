@@ -1,0 +1,15 @@
+@using Microsoft.AspNetCore.Components.Web
+@inherits LayoutComponentBase
+<PageTitle>Ticket System</PageTitle>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12 col-lg-2 bg-light min-vh-100 p-3 border-end">
+            <h5 class="mb-3">Menu</h5>
+            <NavMenu />
+        </div>
+        <div class="col-12 col-lg-10 p-4">
+            @Body
+        </div>
+    </div>
+</div>

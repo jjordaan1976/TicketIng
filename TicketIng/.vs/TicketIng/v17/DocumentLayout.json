@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D996BCFA-A307-B4FE-FAEA-82F4DA7442D2}|..\\TicketIng.Web\\TicketIng.Web.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D996BCFA-A307-B4FE-FAEA-82F4DA7442D2}|..\\TicketIng.Web\\TicketIng.Web.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.web\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D996BCFA-A307-B4FE-FAEA-82F4DA7442D2}|..\\TicketIng.Web\\TicketIng.Web.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.web\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D996BCFA-A307-B4FE-FAEA-82F4DA7442D2}|..\\TicketIng.Web\\TicketIng.Web.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.web\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D996BCFA-A307-B4FE-FAEA-82F4DA7442D2}|..\\TicketIng.Web\\TicketIng.Web.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.web\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D996BCFA-A307-B4FE-FAEA-82F4DA7442D2}|..\\TicketIng.Web\\TicketIng.Web.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.web\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D996BCFA-A307-B4FE-FAEA-82F4DA7442D2}|..\\TicketIng.Web\\TicketIng.Web.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.web\\pages\\issues.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D996BCFA-A307-B4FE-FAEA-82F4DA7442D2}|..\\TicketIng.Web\\TicketIng.Web.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.web\\pages\\clients.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D996BCFA-A307-B4FE-FAEA-82F4DA7442D2}|..\\TicketIng.Web\\TicketIng.Web.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.web\\pages\\categorys.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D996BCFA-A307-B4FE-FAEA-82F4DA7442D2}|..\\TicketIng.Web\\TicketIng.Web.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\controllers\\categoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\repositories\\releaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\repositories\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\repositories\\issuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\controllers\\statusscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\controllers\\releasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A86A285-985A-4B02-B4EB-1B106CBFAF22}|..\\TicketIng.Api\\TicketIng.Api.csproj|c:\\code\\za.co.leanshift.crm\\ticketed_\\ticketing.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Web\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Services\\ClientService.cs",
+              "RelativeToolTip": "..\\TicketIng.Web\\Services\\ClientService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:06:57.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Web\\Services\\UserService.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\TicketIng.Web\\Services\\UserService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:05:30.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "..\\TicketIng.Web\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "..\\TicketIng.Web\\Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T13:05:18.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "..\\TicketIng.Web\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "..\\TicketIng.Web\\Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T13:05:04.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Issues.razor",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Pages\\Issues.razor",
+              "RelativeDocumentMoniker": "..\\TicketIng.Web\\Pages\\Issues.razor",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Pages\\Issues.razor",
+              "RelativeToolTip": "..\\TicketIng.Web\\Pages\\Issues.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T13:03:01.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clients.razor",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Pages\\Clients.razor",
+              "RelativeDocumentMoniker": "..\\TicketIng.Web\\Pages\\Clients.razor",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Pages\\Clients.razor",
+              "RelativeToolTip": "..\\TicketIng.Web\\Pages\\Clients.razor",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T13:01:47.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categorys.razor",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Pages\\Categorys.razor",
+              "RelativeDocumentMoniker": "..\\TicketIng.Web\\Pages\\Categorys.razor",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Pages\\Categorys.razor",
+              "RelativeToolTip": "..\\TicketIng.Web\\Pages\\Categorys.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T13:01:30.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\App.razor",
+              "RelativeDocumentMoniker": "..\\TicketIng.Web\\App.razor",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\App.razor",
+              "RelativeToolTip": "..\\TicketIng.Web\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T13:01:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\appsettings.json",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\appsettings.json",
+              "RelativeToolTip": "..\\TicketIng.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T13:00:33.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Web\\Program.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Program.cs",
+              "RelativeToolTip": "..\\TicketIng.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:59:48.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Startup.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Startup.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:55:12.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategorysController.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\CategorysController.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Controllers\\CategorysController.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\CategorysController.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Controllers\\CategorysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:53:57.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Web\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Web\\Services\\CategoryService.cs",
+              "RelativeToolTip": "..\\TicketIng.Web\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIAwwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:53:38.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:53:30.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StatusRepository.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\StatusRepository.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Repositories\\StatusRepository.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\StatusRepository.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Repositories\\StatusRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:53:12.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:53:03.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReleaseRepository.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\ReleaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Repositories\\ReleaseRepository.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\ReleaseRepository.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Repositories\\ReleaseRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:52:54.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IssueRepository.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\IssueRepository.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Repositories\\IssueRepository.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\IssueRepository.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Repositories\\IssueRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:52:42.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA9wB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:51:30.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:52:33.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:51:41.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StatussController.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\StatussController.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Controllers\\StatussController.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\StatussController.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Controllers\\StatussController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:51:16.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:50:28.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReleasesController.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\ReleasesController.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Controllers\\ReleasesController.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\ReleasesController.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Controllers\\ReleasesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:50:05.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IssuesController.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\IssuesController.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Controllers\\IssuesController.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\IssuesController.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Controllers\\IssuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:49:52.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "..\\TicketIng.Api\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Code\\za.co.leanshift.crm\\Ticketed_\\TicketIng.Api\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "..\\TicketIng.Api\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:49:11.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
